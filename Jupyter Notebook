@@ -1,0 +1,88 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "25da98c2-23d1-440c-bc07-632f34be8e17",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    "# My Jupyter Notebook on TBM Watson Studio\n",
+    "## Cristina Jones Data Analyst\n",
+    "#### **I am interested in data science because my long term goal is to become a Data Analyst. I have always been curious about patterns and storytelling and believe this career would be a great fit for me**\n",
+    "### The code below will show the product of the equation \n",
+    "5+23"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "f26947cd-dde2-4a82-8960-1a14d25e8c47",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "28"
+      ]
+     },
+     "execution_count": 4,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "5+23"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "e10fb3a3-400b-4230-9af4-547e1faf1304",
+   "metadata": {},
+   "source": [
+    "- Yellow\n",
+    "- Blue\n",
+    "- Green"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "13933c54-0b28-4dbf-84bd-7eeae78a8d3a",
+   "metadata": {},
+   "source": [
+    "1. Shirt\n",
+    "2. Pants\n",
+    "3. Shoes"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "fe579c23-2600-45ae-a423-dd97d291d6e7",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python",
+   "language": "python",
+   "name": "conda-env-python-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
